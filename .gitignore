@@ -1,0 +1,4 @@
+*_network/
+*_test.go
+
+.vscode/
